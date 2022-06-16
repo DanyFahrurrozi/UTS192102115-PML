@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS-192102115</string>
+    <string name="lokasi">Plaats</string>
+    <string name="jalan">Straat</string>
+    <string name="kodePos">Post Code</string>
+    <string name="negara">Land</string>
+    <string-array name="daftarNegara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Philippines</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="pemakai">Gebruiker</string>
+    <string name="nama">Naam</string>
+    <string name="telp">Telefoon</string>
+    <string name="sandi">Wachtwoord</string>
+    <string name="tglLahir">Geboortedatum</string>
+    <string name="ulang">Herhalen</string>
+    <string name="simpan">Opslaan</string>
+</resources>
